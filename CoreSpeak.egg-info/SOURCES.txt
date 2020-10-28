@@ -1,0 +1,8 @@
+setup.py
+CoreSpeak/CoreSpeakAbout.py
+CoreSpeak/__init__.py
+CoreSpeak.egg-info/PKG-INFO
+CoreSpeak.egg-info/SOURCES.txt
+CoreSpeak.egg-info/dependency_links.txt
+CoreSpeak.egg-info/requires.txt
+CoreSpeak.egg-info/top_level.txt
